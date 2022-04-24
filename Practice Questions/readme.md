@@ -2,44 +2,44 @@
 
 ## Primary key for each movie in the format of D101, D102, D103...
 
-The Little Mermaid, 1989
-Snow White, 1937
-Aladdin, 1992
-Beauty and the Beast, 1991
+The Little Mermaid, 1989 <br>
+Snow White, 1937 <br>
+Aladdin, 1992 <br>
+Beauty and the Beast, 1991 <br>
 
 
 ## Then after table creation, update with newer movies :
 
-Tangled, 2010
-Princess and the Frog, 2009
-Brave, 2012
+Tangled, 2010 <br>
+Princess and the Frog, 2009 <br>
+Brave, 2012 <br>
 
 ### Create table Pixar using the following movies :
 
 ## Primary key for each movie in the format of P101, P102, P103...
 
-Toy Story, 1995
-Monsters Inc, 2001
-Finding Nemo, 2003
-Cars 2006
+Toy Story, 1995 <br>
+Monsters Inc, 2001 <br>
+Finding Nemo, 2003 <br>
+Cars 2006 <br>
 
 ## Then after the table creation, update with newer movies :
 
-Up, 2009
-WallE, 2008
-Inside Out, 2015
-Coco, 2017
+Up, 2009 <br>
+WallE, 2008 <br>
+Inside Out, 2015 <br>
+Coco, 2017 <br>
 
 
 ## Create the Princess table for the Disney movies :
 
-Ariel, Eric -Little Mermaid
-Snow White, Prince -Snow White
-Jasmine, Aladdin -Aladdin
-Belle, Beast -Beauty and the Beast
-Rapunzel, Flynn -Tangled
-Tiana
-Merida
+Ariel, Eric -Little Mermaid <br>
+Snow White, Prince -Snow White <br>
+Jasmine, Aladdin -Aladdin <br>
+Belle, Beast -Beauty and the Beast <br>
+Rapunzel, Flynn -Tangled <br>
+Tiana <br>
+Merida <br>
 
 
 ## Create the Pixar character table :

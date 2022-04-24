@@ -2,4 +2,4 @@ CREATE TABLE Disney (
     MovieId INTEGER CONSTRAINT disn_mid_pk PRIMARY KEY,
     MovieName VARCHAR2(20) NOT NULL,
     ReleaseDate NUMBER(4) NOT NULL
-)
+);

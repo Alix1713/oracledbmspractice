@@ -1,6 +1,5 @@
 CREATE TABLE Character (
     MovieId INTEGER CONSTRAINT prin_mid_pk PRIMARY KEY,
     MovieName VARCHAR2(20) NOT NULL,
-    CharName VARCHAR2(20) NOT NULL CONSTRAINT prin_p=cna_fk FOREIGN KEY,
-    
-)
+    CharName VARCHAR2(20)
+);
