@@ -27,4 +27,7 @@ The list of things to practice for Oracle DMBS are as follows
 
 
 ### Practice Exercises :
-(to be added)
+-Create the tables with the lists provided
+-Update the tables with the new information provided
+-Join the tables
+(more practice to be added)
